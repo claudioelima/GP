@@ -8,8 +8,12 @@ https://docs.google.com/spreadsheets/d/1ArLo94Gqr4WNWnIVKtO_HH8L5gz-2JAaNhax8YgW
 
 ### Restrições dos projetos
 
-05 pessoas 
+05 pessoas
+
 Custo por Pessoa= R$ 100
+
 Custo total do projeto 35.500
-Trabalhar 6 horas semanais 
+
+Trabalhar 6 horas semanais
+
 Periodo do projeto 16/03 até 31/05

@@ -14,7 +14,7 @@ Custo por Pessoa= R$ 100
 
 Custo total do projeto 35.500
 
-Trabalhar 6 horas semanais
+Trabalhar 8 horas semanais
 
 Periodo do projeto 16/03 até 31/05
 

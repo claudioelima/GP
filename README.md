@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1ArLo94Gqr4WNWnIVKtO_HH8L5gz-2JAaNhax8YgW
 
 Custo por Pessoa= R$ 100
 
-Custo total do projeto 35.500
+Custo total do projeto 44.000
 
 Trabalhar 8 horas semanais
 
